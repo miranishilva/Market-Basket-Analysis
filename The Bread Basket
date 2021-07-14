@@ -3,4 +3,12 @@ Market Basket Analysis | The Bread Basket
 dataset ini diambil dari sumber terbuka kaggle.com dengan url https://www.kaggle.com/mittalvasu95/the-bread-basket
 
 Introduce
-Dataset The Bread Basket merupakan laporan hasil penjualan dari toko roti di Edinburgh
+Dataset The Bread Basket merupakan laporan hasil penjualan dari toko roti yang berlokasi di Edinburgh. Dataset ini terdari dari 20507 data dengan 9000 transaksi.
+Dataset ini terdari dari 5 variabel yaitu :
+1. Transaction : id transaksi
+2. Item : Nama item yang terjual
+3. date_time : Waktu item terjual dalam tanggal dan jam
+4. period_day : waktu item terjual dalam periode hari (pagi, siang, sore, malam)
+5. weekday_weekend : waktu item terjual dalam minggu
+
+
